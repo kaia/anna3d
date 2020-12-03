@@ -3,8 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
-toc: true
-toc_label: "På denne siden:"
 header:
   image: /assets/images/barn-ved-elv.jpg
 

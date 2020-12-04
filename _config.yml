@@ -37,6 +37,24 @@ plugins:
 
 locale: no-NO
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+
+include:
+  - _posts
+  - _pages
+  
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -44,6 +44,8 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
+      header.image: "/assets/images/stillheten-i-en-myr.png"
       author_profile: true
       read_time: true
       comments: false
@@ -53,7 +55,7 @@ defaults:
 include:
   - _posts
   - _pages
-  
+
 
 
 # Exclude from processing.

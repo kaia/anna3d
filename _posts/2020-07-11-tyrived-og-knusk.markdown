@@ -1,12 +1,12 @@
 ---
 title: Bål uten fyrstikker
 
-tags: [bål, selvhjulpen]
+tags: ["bål", "selvhjulpen"]
 ---
 
-{% include figure image_path="/assets/images/tyri-og-knusk.png" alt="tyri, øks, knivsjuke, forkullet linstoff og bjørkenever" %}
+{% include figure image_path="/assets/images/tyri-og-knusk.png" alt="tyri, øks, knivkjuke, forkullet linstoff og bjørkenever" %}
 
-# Tyrived og knusk. To litt mystiske og forlokkende ord. 
+# Tyrived og knusk. To litt mystiske og forlokkende ord.
 
 I min fascinasjon over ild og ønsket om å lage bål uten fyrstikker ble jeg nødt til å finne ut av det. Og hvilken glede! Møtet med min første tyristubbe …
 

@@ -45,7 +45,7 @@ I skolehagen eller i naturen, for store og små, bedrifter, skoler og private.
 
 # Hvem er jeg
 ![image-right](/assets/images/a3d-anna-litefoto.jpg){: .align-right}
-Jeg heter Anna Trede, er naturforvalter, hagebruker, friluftsentusiast, og lektor i naturbruk. I hele mitt voksne liv har jeg brent for formidling av naturglede og et bærekraft liv. Først som leirskolelærer, naturguide og leder for en turgruppe, siden som skogforvalter og prosjektleder for utvikling av bærekraftig skogbruk.   Det siste tiåret har jeg bygget opp skolehager og drevet med uteundervisning i skolehager og i skogen. I økende grad har jeg også veiledet skoler i forhold til oppstart og drift av skolehage og forankring av dette arbeidet i lokale læreplaner. Videre har jeg organisert og holdt seminar, kurs og foredrag for lærere og andre knyttet til skolehager og dyrking av mat, og naturkontakt.
+Jeg heter Anna Trede, er naturforvalter, hagebruker, friluftsentusiast, og lektor i naturbruk. I hele mitt voksne liv har jeg brent for formidling av naturglede og et bærekraftig liv. Først som leirskolelærer, naturguide og leder for en turgruppe, siden som skogforvalter og prosjektleder for utvikling av bærekraftig skogbruk.   Det siste tiåret har jeg bygget opp skolehager og drevet med uteundervisning i skolehager og i skogen. I økende grad har jeg også veiledet skoler i forhold til oppstart og drift av skolehage og forankring av dette arbeidet i lokale læreplaner. Videre har jeg organisert og holdt seminar, kurs og foredrag for lærere og andre knyttet til skolehager og dyrking av mat, og naturkontakt.
 Jeg er også opptatt av meditasjon og tilstedeværelse, i naturen og i livet ellers.
 
 En liten film laget til et online internseminar for lærere i Steinerskolen

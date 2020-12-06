@@ -28,7 +28,7 @@ Lærer vi elementære ferdigheter om å være i naturen vil vi lettere kjenne os
 
 # Hva jeg tilbyr
 ## Kurs - Naturkontakt
-![image-right](/assets/images/lek-i-blinde-vidaråsen-L.jpg){: .align-right}
+![image-right](/assets/images/lek-i-blinde-vidaråsen-M.jpg){: .align-right}
 På kurs i naturkontakt  øver vi på hvordan vi i praksis kan utvikle vårt forhold til naturen og hvordan vi kan lede andre inn i en dypere kontakt med naturen, barn og voksne.
 Vi utforsker og utvider både våre kunnskaper, ferdigheter og vår evne til naturnærvær i øvelser som spenner fra det stille og rolige, kontemplerende, til det mer energiske, alene og i fellesskap. Innholdet tilpasses gruppens ønsker og behov.
 

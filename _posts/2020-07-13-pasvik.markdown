@@ -1,0 +1,17 @@
+---
+title: "Pasvik"
+tags: ["gammel skog", "tilstede"]
+---
+
+# Utkast- begynnelse
+
+Å vandre i stillhet, på en sirlig opptråkket sti, gjennom bjørnens rike.
+Vite at vi kanskje blir sett, av fler enn de eldgamle furuene og deres liggende og stående døde slektinger, flere i antall enn jeg noen ganger har sett. Se fersk avføring og lure, er det fra bjørn? Kan jeg være mer våken enn dette, mer tilstede?
+
+{% include figure image_path="/assets/images/på-sti-i-pasvik-L.jpg" alt="sti gjennom gammel fjellfuruskog" %}
+
+In hac habitasse platea dictumst. Proin porttitor ornare nisl, quis pulvinar ipsum dictum a. Nam ultricies leo ultricies felis bibendum, vitae gravida erat laoreet. Duis quis egestas lectus, vel suscipit nisl. Suspendisse rutrum, justo vitae pretium venenatis, lacus nunc feugiat lacus, at sagittis nisl risus non nisl. Nulla eleifend molestie mollis. Donec porttitor diam a eleifend pharetra. Aliquam eget molestie eros, at venenatis nibh. Donec laoreet leo ex. Donec tincidunt eu magna quis facilisis. Etiam tempus egestas risus, a pharetra velit posuere in.
+
+Maecenas elementum nunc at egestas vulputate. Mauris et rutrum neque. Pellentesque eu sodales nisl. Cras imperdiet bibendum ante accumsan auctor. Nunc venenatis nec dui sed mattis. Cras rutrum odio id bibendum condimentum. Vivamus eu lorem augue. Phasellus pulvinar gravida ex nec aliquet. Etiam vitae posuere magna, vitae elementum eros. Praesent aliquet magna sed ullamcorper maximus. Nunc eu semper leo. Vivamus et blandit urna. Morbi a risus ut eros malesuada rhoncus.
+
+Maecenas neque tortor, porttitor ac suscipit sit amet, semper et nisl. Vivamus vitae consequat felis, sit amet porttitor leo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam sollicitudin leo sed porttitor commodo. Sed sed euismod massa. Ut posuere pellentesque ante, vel lacinia turpis dictum vel. Vivamus a convallis urna. Aliquam erat volutpat. Aenean finibus tortor eros, auctor porttitor quam placerat et. Quisque quis imperdiet felis, nec finibus diam. Quisque et est sodales, tincidunt eros ac, vehicula dolor. Vestibulum ante purus, posuere in tellus sed, venenatis bibendum arcu. Morbi id ante at massa tristique sollicitudin eget et diam.
